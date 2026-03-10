@@ -1,3 +1,5 @@
+#Os operadores aritmetico define a precedência em parêntesis, expoentes, multiplicação e divisão (da esquerda para direita), somas e subtrações (da esquerda para direita.)
+
 produto_1 = 10
 produto_2 = 35
 
