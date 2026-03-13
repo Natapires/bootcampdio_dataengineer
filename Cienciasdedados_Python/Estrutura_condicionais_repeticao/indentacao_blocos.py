@@ -3,7 +3,7 @@ def sacar(valor):
 
     if saldo >= valor:
         print("Saque com sucesso!")
-        print("Retire as céculas na boca do caixa abaixo.")
+        print("Retire as células na boca do caixa abaixo.")
     
     print("Obrigado por utilizar o banco 24horas!")
 
